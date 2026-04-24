@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=almost+Sicario;Add+me+on+Discord+sicario89144)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Add+me+on+Discord+sicario89144)
 
 [![Discord](https://img.shields.io/badge/Discord-000?logo=discord)](https://discord.com/users514557656069963786)
 
