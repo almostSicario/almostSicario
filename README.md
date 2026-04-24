@@ -1,3 +1,6 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=almost+Sicario;Add+me+on+Discord+sicario89144)
+
+
 <h2>Skills</h2>
 
 <p>
@@ -8,14 +11,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
-
-## Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=almostSicario&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almostSicario&layout=compact&theme=tokyonight)
-
-## Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=almostSicario&theme=tokyonight)
-
